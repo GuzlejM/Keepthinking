@@ -1,6 +1,7 @@
-<article class="flex flex-col">
-  <img src="{{@source}}" alt="{{@articleAlt}}">
-  <a href="/" class="font-semibold">Exhibition: {{@hrefTitle}}</a>
-  <h2>From {{@date}}</h2>
+<article class="flex flex-col md:w-96 md:text-2xl mt-5" ...attributes>
+  <img src="{{@source}}" alt="{{@articleAlt}}" class="w-full md:w-96 md:h-96" >
+  <a href="/" class="mt-5 font-semibold hover:underline">Exhibition: {{@hrefTitle}}</a>
+  <h2>{{@date}}</h2>
+  <br>
   <p>{{@article}}</p>
 </article>

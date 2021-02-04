@@ -1,6 +1,5 @@
 /* Desktop settings*/
 
-@media only screen and (min-width: 1024px) {
     .swiper-container-horizontal > .swiper-pagination-bullets {
         width: auto;
         right: 0;
@@ -16,21 +15,21 @@
     .swiper-pagination-bullet-active {
       background-color: #5e5e5e;
     }
-  }
+
 
   /* Tablet settings*/
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (max-width: 768px) {
     .swiper-container-horizontal > .swiper-pagination-bullets {
         width: auto;
         right: 0;
         left: auto;
-        bottom: 120px;
+        bottom: 20px;
     }
     
     .swiper-pagination-bullet {
-      height: 15px;
-      width: 15px;
+      height: 10px;
+      width: 10px;
     }
     
     .swiper-pagination-bullet-active {
@@ -45,7 +44,7 @@
         width: auto;
         right: 0;
         left: auto;
-        bottom: 62px;
+        bottom: 20px;
     }
     
     .swiper-pagination-bullet {

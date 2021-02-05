@@ -2,7 +2,7 @@ Keepthinking Landing Page as technical test - https://keepthinking.vercel.app/
 
 Usage:
 
-- git clone <repoURL>
+- git clone https://github.com/GuzlejM/Keepthinking.git
 - open the folder
 - npm install 
 - To start the localserver

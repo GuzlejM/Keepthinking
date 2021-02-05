@@ -25,7 +25,7 @@ I have been following instructions in the email:
 
 I have -
 - used any CSS/JS libs/frameworks
-- I couldn't find needed Icons on https://linearicons.com/free i used Fontawesome instead
+- I couldn't find needed Icons on https://linearicons.com/free I have used Fontawesome instead
 - used Youtube video
 - built it responsive for laptop, tabled and mobile
 - didn't use Bootstrap
@@ -33,7 +33,7 @@ I have -
 - did Carousel but as I'm not sure how time limited is testing process. 
   I didn't implement expanding searchbar or opening menu. If needed I'm happy to deliver after your reviewing.
 
-I enjoyed this challenge an will be Happy to hearing from you.
+I enjoyed this challenge and will be Happy to hearing from you.
 
 Martin Guzlej
 

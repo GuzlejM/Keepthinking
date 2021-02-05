@@ -1,6 +1,6 @@
 Keepthinking Landing Page as technical test - https://keepthinking.vercel.app/
 
-Time used with building : 4 hrs.
+It took me 4 hrs to finish project.
 
 Usage:
 

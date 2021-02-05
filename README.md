@@ -19,7 +19,7 @@ Technologies I have used:
 - Hosted by Vercel
 - Pictures are used from unsplash.com
 
-I decided to use this technologies because i was working with them the most in recent projects and are fun.
+I decided to use this technologies because I was working with them the most in the recent projects
 
 I have been following instructions in the email:
 
